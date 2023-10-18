@@ -41,7 +41,7 @@ body {
     width: 481px;
 }
 
-/*.word {
+.word {
     color: #FFF;
     font-family: Montserrat;
     font-size: 18px;
@@ -49,7 +49,7 @@ body {
     font-weight: 700;
     line-height: 32px;
 }
-*/
+
 .button__text {
     color: #FFF;
     font-family: Montserrat;
@@ -115,4 +115,5 @@ body {
     font-weight: 600;
     line-height: 32px;
     margin: 236px 262px 32px 32px;
+    display: flex;
 }
