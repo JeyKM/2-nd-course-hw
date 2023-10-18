@@ -1,7 +1,8 @@
 * {
     margin: 0;
     padding: 0;
-}
+} 
+
 
 body {
     font-family: Montserrat, sans-serif;
@@ -11,6 +12,7 @@ body {
     padding-left: calc(50% - 600px);
     padding-right: calc(50% - 600px);
 }
+
 
 .heading__big {
     height: 1024px;
