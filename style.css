@@ -98,6 +98,16 @@ body {
 
 }
 
+.footer__box__text {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin: 236px 262px 32px 32px;
+    display: flex;
+}
+
 .game__three {
     background-image: url(img/backthree.png);
     background-repeat: no-repeat;
@@ -108,12 +118,3 @@ body {
     margin-top: 128px;
 }
 
-.footer__box__text {
-    color: #FFF;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 32px;
-    margin: 236px 262px 32px 32px;
-    display: flex;
-}
